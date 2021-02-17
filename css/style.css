@@ -1,0 +1,64 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    color: #404041;
+    font-family: 'Bebas Neue',serif;
+    font-size: 1.6875em;
+    letter-spacing: 4px;
+    margin-left: 128px;
+    margin-top: 318px;
+    height: 32px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    color: #404041;
+    font-family: 'Bebas Neue',serif;
+    font-size: 3.456em;
+    letter-spacing: 8px;
+    margin-left: 262px;
+    margin-top: 651px;
+    height: 66px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    color: #404041;
+    font-family: 'Bebas Neue',serif;
+    font-size: 4.14em;
+    letter-spacing: 10px;
+    margin-left: 314px;
+    margin-top: 780px;
+    height: 79px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    color: #404041;
+    font-family: 'Bebas Neue',serif;
+    font-size: 5.4em;
+    letter-spacing: 13px;
+    margin-left: 410px;
+    margin-top: 1018px;
+    height: 102px
+  }
+}
